@@ -1,11 +1,8 @@
 # 💫 Hi, Ana Cañete:
 🍵Frontend-focused Computer Engineer, passionate about technology and constantly seeking new challenges.
 
-
-
-
 ## 🌐 Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/annx-c) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ana.canete13@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-00CED1?style=flat&logo=leaflet&logoColor=white)](https://anac-dev.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/annx-c) [![Portfolio](https://img.shields.io/badge/Portfolio-00CED1?style=flat&logo=leaflet&logoColor=white)](https://anac-dev.netlify.app/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ana.canete13@gmail.com)
 
 
 # 💻 Tech Stack: 
