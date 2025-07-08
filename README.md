@@ -1,4 +1,4 @@
-# 💫 Hi, Ana Cañete <img src="assets/Hi.gif" width="28"/> :
+# 💫 Hi, Ana Cañete:
 🍵Frontend-focused Computer Engineer, passionate about technology and constantly seeking new challenges.
 
 
