@@ -1,4 +1,4 @@
-# 💫 Hi!, I'm Ana Cañete 👋
+# 💫 Hi!, I'm Ana Cañete👋
 🍵Frontend-focused Computer Engineer, passionate about technology and constantly seeking new challenges.
 
 ## 🌐 Socials: 
